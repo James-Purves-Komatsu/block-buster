@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: 2-demo
-  url: https://github.com/James-Purves-Komatsu/block-buster.git
+  url: https://github.com/James-Purves-Komatsu/bb-app-source
